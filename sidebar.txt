@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zen:home|Door43 (zen)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zen|d43-zen repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zen/archive/master.zip|d43-zen.zip]]
+
+**Recent Changes**
+{{changes>ns = zen}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zen|Ethnologue data]]
+
